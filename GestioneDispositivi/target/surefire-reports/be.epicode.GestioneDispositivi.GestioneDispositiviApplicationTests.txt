@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: be.epicode.GestioneDispositivi.GestioneDispositiviApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.185 s -- in be.epicode.GestioneDispositivi.GestioneDispositiviApplicationTests
